@@ -1,0 +1,26 @@
+.cke_templates_dialog .cke_dialog_ui_checkbox input {
+    vertical-align: middle;
+}
+
+.cke_reset_all .cke_templates_dialog .cke_dialog_ui_checkbox label {
+    display: inline-block;
+}
+
+.field--widget-color-field-widget-box {
+    color: #FFFFFF;
+}
+
+.field--widget-color-field-widget-box .color_field_widget_box__square {
+    border: 1px solid #000000;
+}
+
+.field--widget-color-field-widget-box h4 {
+    color: #333333
+}
+
+.field--widget-color-field-widget-box .color-field-widget-box-form {
+    overflow: hidden;
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}

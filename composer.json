@@ -1,0 +1,11 @@
+{
+  "name": "emakinafr/emk_ckeditor",
+  "description": "Template for Drupal 8 ckeditor",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gaëtan Monéger",
+      "email": "gmo@emakina.fr"
+    }
+  ]
+}

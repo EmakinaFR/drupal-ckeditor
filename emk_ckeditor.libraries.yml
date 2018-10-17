@@ -1,0 +1,14 @@
+ckeditor.templates.dialog:
+  version: 1.x
+  css:
+    theme:
+      css/emk_ckeditor.css: {}
+  js:
+    js/emk_ckeditor.dialog.js: {}
+    js/emk_ckeditor.empty.js: {}
+
+ckeditor.templates.admin:
+  version: 1.x
+  js:
+    js/emk_ckeditor.admin.js: {}
+
