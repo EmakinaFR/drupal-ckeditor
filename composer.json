@@ -1,0 +1,16 @@
+{
+  "name": "emakinafr/drupal_ckeditor",
+  "type": "drupal-module",
+  "description": "Template for Drupal 8 ckeditor",
+  "keywords": [
+    "Drupal"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Gaëtan Monéger",
+      "email": "gmo@emakina.fr"
+    }
+  ]
+}

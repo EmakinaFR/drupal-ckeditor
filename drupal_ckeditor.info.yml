@@ -1,0 +1,12 @@
+name: EMK CKEditor
+description: Template for CKEditor plugin
+package: Emakina
+type: module
+
+# core: 8.x
+dependencies:
+- ckeditor
+
+version: '8.x-1.0'
+core: '8.x'
+project: 'drupal_ckeditor'
