@@ -7,9 +7,9 @@ CKEDITOR.addTemplates('default', {
   // The templates definitions.
   templates: [
     {
-      title: 'Container 2 colomns',
+      title: 'Container 2 columns',
       image: 'template1.gif',
-      description: 'Provides a container with 2 separated colomns',
+      description: 'Provides a container with 2 separated columns',
       html: '<div class="col-2">' +
       '<div>' +
       '<p>' +
@@ -24,9 +24,9 @@ CKEDITOR.addTemplates('default', {
       '</div>'
     },
     {
-      title: 'Container 3 colomns',
+      title: 'Container 3 columns',
       image: 'template2.gif',
-      description: 'Provides a container with 3 separated colomns',
+      description: 'Provides a container with 3 separated columns',
       html: '<div class="col-3">' +
       '<div>' +
       '<p>' +

@@ -176,10 +176,10 @@ class CkeditorTemplates extends CKEditorPluginBase implements CKEditorPluginConf
     $defaultThemConfig = $this->configFactoryService->get('system.theme');
     $defaultThemeName = $defaultThemConfig->get('default');
 
-    $defaultThemeFileAbsolutePath = DRUPAL_ROOT . '/' . drupal_get_path('theme', $defaultThemeName) . '/sources/js/' . $defaultThemeName . '_ckeditor.js';
+    $defaultThemeFileAbsolutePath = DRUPAL_ROOT . '/' . drupal_get_path('theme', $defaultThemeName) . '/assets/js/' . $defaultThemeName . '_ckeditor.js';
 
     if (file_exists($defaultThemeFileAbsolutePath)) {
-      $defaultPath = '/' . drupal_get_path('theme', $defaultThemeName) . '/sources/js/' . $defaultThemeName . '_ckeditor.js';;
+      $defaultPath = '/' . drupal_get_path('theme', $defaultThemeName) . '/assets/js/' . $defaultThemeName . '_ckeditor.js';;
     }
 
     return [$defaultPath];

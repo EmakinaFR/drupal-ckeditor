@@ -19,9 +19,10 @@ HOW TO INSTALL :
 
 ## Add template
 
-To add your own template files, just add a file name {theme_name}_ckeditor.js in your theme direction under "sources/js".
+To add your own template files, just add a file name {theme_name}_ckeditor.js in your theme direction under "assets/js".
 Your can find exemple in the templates directory of this module. 
 
 ## Contributors
 
   - Gaëtan Monéger    - [gmo@emakina.fr](mailto:gmo@emakina.fr)
+  - Lucas Mignot    - [lmi@emakina.fr](mailto:lmi@emakina.fr)
