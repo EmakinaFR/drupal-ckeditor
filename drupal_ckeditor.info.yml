@@ -3,10 +3,9 @@ description: Template for CKEditor plugin
 package: Emakina
 type: module
 
-# core: 8.x
 dependencies:
 - ckeditor
 
 version: '8.x-1.0'
-core: '8.x'
+core_version_requirement: ^8 || ^9
 project: 'drupal_ckeditor'
